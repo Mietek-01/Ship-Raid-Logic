@@ -1,5 +1,7 @@
 # Ship Raid Logic
-Kod został napisany przeze mnie jako jedno z zadań powierzonych mi w pracy na stanowisku Junior Unity Developer. Było to moje pierwsze tak złożone zadanie, dzięki
+Kod został napisany przeze mnie jako jedno z zadań powierzonych mi w pracy na stanowisku Junior Unity Developer.
+
+Było to moje pierwsze tak złożone zadanie, dzięki
 któremu szybko nabrałem bardzo dużo praktycznego doświadczenia i genialnych wzorców programistycznych. 
 
 ## Opis Logiki
